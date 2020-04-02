@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+}
+
+.content_article {
+  text-align: left;
+}
+
+.article:first-child {
+  color: red;
+  margin-bottom: 40em;
+}
