@@ -7,6 +7,5 @@ body {
 }
 
 .article:first-child {
-  color: red;
   margin-bottom: 4em;
 }
