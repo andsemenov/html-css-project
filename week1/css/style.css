@@ -1,5 +1,8 @@
 body {
   text-align: center;
+  margin: 0px auto 0px auto;
+  width: 100%;
+  max-width: 900px;
 }
 
 .content_article {
