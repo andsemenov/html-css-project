@@ -9,3 +9,8 @@ body {
 .article:first-child {
   margin-bottom: 4em;
 }
+
+.content {
+  display: flex;
+  flex-direction: column;
+}
