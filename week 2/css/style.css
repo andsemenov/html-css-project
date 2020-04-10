@@ -7,8 +7,8 @@ body {
 
 .content_article {
   text-align: left;
-  padding-left: auto;
-  padding-right: auto;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
 }
 
 .img {
@@ -16,6 +16,7 @@ body {
   width: 250px;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 0.7rem;
 }
 
 .about {
@@ -30,6 +31,8 @@ body {
 
 .article {
   width: 33%;
+  padding-left: auto;
+  padding-right: auto;
 }
 
 .aside_bar {
