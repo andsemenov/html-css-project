@@ -7,17 +7,14 @@ body {
 
 .content_article {
   text-align: left;
-}
-
-.content {
-  display: flex;
-  flex-direction: column;
+  padding-left: auto;
+  padding-right: auto;
 }
 
 .img {
   display: block;
   width: 250px;
-  margin-left: auto;
+  marginp-left: auto;
   margin-right: auto;
 }
 
@@ -25,7 +22,7 @@ body {
   width: 250px;
 }
 
-.container {
+.articles {
   display: flex;
   width: 66vw;
   flex-wrap: wrap;
@@ -52,7 +49,7 @@ body {
     display: flex;
     flex-direction: column;
   }
-  .container {
+  .articles {
     display: flex;
     width: 100vw;
     flex-wrap: wrap;
@@ -68,7 +65,7 @@ body {
 }
 
 @media only screen and (max-width: 450px) {
-  .container {
+  .articles {
     display: flex;
     flex-direction: column;
     width: auto;
