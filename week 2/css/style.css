@@ -69,7 +69,7 @@ body {
   }
 }
 
-@media only screen and (max-width: 450px) {
+@media only screen and (max-width: 460px) {
   .articles {
     display: flex;
     flex-direction: column;
